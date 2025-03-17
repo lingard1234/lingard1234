@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&text=경수의%20개발지표&animation=fadeIn&fontColor=f7f5f5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&text=KyungSoo's%20Github&animation=fadeIn&fontColor=f7f5f5" />
 </div>
 
 <br>
