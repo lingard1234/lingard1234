@@ -1,34 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&text=KyungSoo's%20Github&animation=fadeIn&fontColor=f7f5f5" />
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/lingard1234"/>
+</a>
+
+<div align="left">
+
+## ☁ Information
+
+> **Info**
+
+- **이름** : 고경수
+- **소속** : 단국대학교 소프트웨어학과
+- **Certification** : SQLD (SQL 개발자), TOEIC Speaking IH
+
+<br />
+
+## ☁ Dev Stacks
+
+### Back-end
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
 </div>
 
-<br>
-<h3 align="center">🖥️ Tech Stack 🖥️</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ECD53F" />&nbsp
-  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+### Front-end
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
-<br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+### Database
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=000000" />&nbsp
-</div>
-<br>
 
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingard1234&show_icons=true&theme=radical" />&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingard1234&layout=donut" />
+## ☁ Development Tools
+
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</div>
+
+</div>
+
+<div align="left">
+
+## ☁ Activities
+
+> 2024
+
+- **Blaybus** 실전 앱 개발 경진대회 — Flutter FE
+
+> 2025
+
+- **UMC 9기** — Spring Boot 스터디장
+- **RealMatch** 브랜드·인플루언서 매칭 플랫폼 — Spring Boot / Spring Security BE 
+
+> 2026
+
+- 단국대학교 현장실습 — **㈜에스파이온** (2026.03 - 2026.06)
+- **LG Aimers 9기** — AI 청년 교육 프로그램 (2026.06 - )
+- **BRNO Program** — AI Summer School 프로그램 (2026.08 예정)
+
 </div>
