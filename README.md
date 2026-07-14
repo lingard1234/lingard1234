@@ -8,8 +8,6 @@
 
 ## ☁ Information
 
-> **Info**
-
 - **이름** : 고경수
 - **소속** : 단국대학교 소프트웨어학과
 - **Certification** : SQLD (SQL 개발자), TOEIC Speaking IH
@@ -57,7 +55,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </div>
 
-</div>
+<br />
 
 <div align="left">
 
