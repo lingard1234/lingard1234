@@ -10,7 +10,7 @@
 
 - **이름** : 고경수
 - **소속** : 단국대학교 소프트웨어학과
-- **Certification** : SQLD (SQL 개발자), TOEIC Speaking IH
+- **Certification** : SQLD (SQL 개발자), TOEIC Speaking IH, TOPCIT Level 3 
 
 <br />
 
@@ -74,5 +74,6 @@
 
 - 단국대학교 현장실습 — **㈜에스파이온** (2026.03 - 2026.06)
 - **LG Aimers 9기** — AI 청년 교육 프로그램 (2026.06 - )
+- **KUSITMS 34th** - Backend Developer (2026.08 - )
 
 </div>
