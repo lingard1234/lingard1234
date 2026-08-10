@@ -74,6 +74,6 @@
 
 - 단국대학교 현장실습 — **㈜에스파이온** (2026.03 - 2026.06)
 - **LG Aimers 9기** — AI 청년 교육 프로그램 (2026.06 - )
-- **KUSITMS 34th** - Backend Developer (2026.08 - )
+- **KUSITMS 34th** — Backend Developer (2026.08 - )
 
 </div>
