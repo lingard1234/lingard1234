@@ -73,6 +73,8 @@
 
 ## 🏆 Awards
 
+> 2026
+
 - **KUSITMS 34th** ㈜Verty 기업 연계 프로젝트 — **최우수상**
 
 </div>
