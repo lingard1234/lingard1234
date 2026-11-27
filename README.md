@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=lingard1234&utm_content=farm">
@@ -67,7 +68,9 @@
 - 단국대학교 현장실습 — **㈜에스파이온** (2026.03 - 2026.06)
 - **LG Aimers 9기** — AI 교육 프로그램 (2026.06 - 2026.09)
 - **KUSITMS 34th** — Backend Engineer (2026.08 - )
-- **도착까지** 이동시간만큼 가볍게 읽는 맞춤 뉴스 — BE Lead (2026.10 - 
+- **도착까지** 이동시간만큼 가볍게 읽는 맞춤 뉴스 — BE Lead (2026.10 - )
+- **CloudCost** AWS 비용 분석·최적화 서비스 — Backend / Infra (2026.09 - 2026.11)
+
 
 <br />
 
@@ -75,6 +78,8 @@
 
 > 2026
 
+- **CloudCost** — 캡스톤디자인 **최우수상 (SW중심대학사업단장상)**
 - **KUSITMS 34th** ㈜Verty 기업 연계 프로젝트 — **최우수상**
 
+</div>
 </div>
